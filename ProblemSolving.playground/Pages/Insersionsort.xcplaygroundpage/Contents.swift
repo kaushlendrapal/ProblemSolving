@@ -14,7 +14,7 @@ func insertionSort<T: Comparable>(array a:inout [T]) -> [T] {
     for index in 1..<a.count {
         var insertionIndex = index
         
-        var insertionItem = a[index]
+        let insertionItem = a[index]
         
         while insertionIndex > 0 && insertionItem < a[insertionIndex - 1] {
             
