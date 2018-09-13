@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <Group
+      location = "container:"
+      name = "ProblemSolving">
+      <FileRef
+         location = "group:ProblemSolving/ProblemSolving.xcodeproj">
+      </FileRef>
+   </Group>
+   <Group
+      location = "container:"
+      name = "Heap">
+   </Group>
+   <Group
+      location = "container:"
+      name = "LinkList">
+   </Group>
+   <Group
+      location = "container:"
+      name = "StringProblem">
+   </Group>
+   <Group
+      location = "container:"
+      name = "Searching">
+      <FileRef
+         location = "group:Searching/Searching.playground">
+      </FileRef>
+   </Group>
+   <Group
+      location = "container:"
+      name = "Sorting">
+      <FileRef
+         location = "group:Sorting/Sorting.playground">
+      </FileRef>
+   </Group>
+</Workspace>
